@@ -1,4 +1,9 @@
 # Algoritmo-Bellman-Ford
+
+
+
+
+
 /*LIBERIAS*/
 #include<stdio.h>
 #include<stdlib.h>
